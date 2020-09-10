@@ -21,7 +21,7 @@ Used packages in this project: tm, tidytext, tidyverse, DT, wordcloud, scales, g
 
 ### [Project Output](doc/)
 
- + Click me: [Pop Vs Metal Report](https://github.com/tramduong/Data-Science-Portfolio/blob/master/PopVsMetal/doc/SongLyrics.pdf)
+ + ***Click me***: [Pop Vs Metal Report](https://github.com/tramduong/Data-Science-Portfolio/blob/master/PopVsMetal/doc/SongLyrics.pdf)
  
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
