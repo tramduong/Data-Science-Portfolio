@@ -1,6 +1,5 @@
 ---
-title: "Stem Completion"
-author: "Chengliang Tang, Arpita Shah, Yujie Wang and Tian Zheng"
+title: "Text Processing"
 output:
   pdf_document: default
   html_document:
