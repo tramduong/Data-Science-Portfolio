@@ -1,4 +1,4 @@
-## Project title: Eating Healthy in NYC - an RShiny app project
+## Project title: Eating Healthy in Fast Food Restaurant Chains in NYC
 ### Conducted by: Tram Duong
 
 ### [Project Description](doc/)
