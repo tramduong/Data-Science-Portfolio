@@ -1,0 +1,12 @@
+name: NYCRestaurants
+title: NYCRestaurants
+username:
+account: ttd2111
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2786434
+bundleId: 3616950
+url: https://ttd2111.shinyapps.io/NYCRestaurants/
+when: 1599778230.80614
+asMultiple: FALSE
+asStatic: FALSE
