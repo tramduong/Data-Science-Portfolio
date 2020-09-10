@@ -1,5 +1,5 @@
 ## Project title: Eating Healthy in NYC - an RShiny app project
-###Conducted by: Tram Duong
+### Conducted by: Tram Duong
 
 ### [Project Description](doc/)
 	
