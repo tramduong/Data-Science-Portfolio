@@ -14,12 +14,12 @@ comparing nearby restaurants.
 
 + **User Guide**:
 
-***Map***: This part contains a map of NYC. The user can click a location on the map and view the restaurants in that area.
+	***Map***: This part contains a map of NYC. The user can click a location on the map and view the restaurants in that area.
 
-***Comparison***: Choose the restaurants, food types, and nurtitional facts you want to explore/compare. Click a food item to see a breakdown of its contents.
+	***Comparison***: Choose the restaurants, food types, and nurtitional facts you want to explore/compare. Click a food item to see a breakdown of its contents.
 
-***Statistics Analysis***: This part contains some interactive graphs and bar charts that help users to better understand of all main nutritional factors and provide the list of low or high content of each specific nutrient per each restaurant.
+	***Statistics Analysis***: This part contains some interactive graphs and bar charts that help users to better understand of all main nutritional factors and provide the list of low or high content of each specific nutrient per each restaurant.
 
-***Data Search***: Search the menu data or restaurant location data used to develop our app.
+	***Data Search***: Search the menu data or restaurant location data used to develop our app.
 
 
