@@ -3,7 +3,7 @@
 
 ### [Project Description](doc/)
 	
-+ **Click Me**: [Eating Healthy in NYC](https://ttd2111.shinyapps.io/NYCRestaurants/)
++ **Click Me**: [NYC Fast Food Restaurant Chains](https://ttd2111.shinyapps.io/NYCRestaurants/)
 
 + **Project summary**: Our app provides users with nutrition information for fast food chain restaurants in NYC. Users can choose restaurants based on location and compare menu items.
 
