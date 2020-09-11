@@ -1,7 +1,7 @@
 **Airlines_2**: 
   + The original data retrieved from Webhose.io: 
-          + Thread title: airline
-          + Type of sites: news and blogs
+      + Thread title: airline
+      + Type of sites: news and blogs
           + Country: US
           + Laguage: English
           + Dates: last 30 days since 27 JULY 2020
