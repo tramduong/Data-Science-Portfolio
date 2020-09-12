@@ -5,7 +5,7 @@
 	
 + **Click Me**: [NYC Fast Food Restaurant Chains](https://ttd2111.shinyapps.io/NYCRestaurants/)
 
-+ **Project summary**: Our app provides users with nutrition information for fast food chain restaurants in NYC. Users can choose restaurants based on location and compare menu items.
++ **Project summary**: The app provides users with nutrition information for fast food chain restaurants in NYC. Users can choose restaurants based on location and compare menu items.
 
 + **Goal**: 
 Inspired by how nutritional values affect human health, we aim to develop an App using R shiny to visualize the most common nutrients and the menu information of the top national restaurant chains, 
