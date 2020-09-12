@@ -1,4 +1,4 @@
-## Project title: Topic and Sentiment Tracking of the Airline Industry Since COVID-19
+## Project title: Topics and Sentiment Tracking of the Airline Industry Since COVID-19
 ### Conducted by: Tram Duong
 
 ### [Project Description](doc/)
