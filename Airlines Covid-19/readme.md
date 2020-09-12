@@ -7,12 +7,12 @@
 Tracking the topics and sentiment during these times can help airline companies when best to proceed with a relaunch strategy.
 
 + **Project summary**: 
-	***Exploratory*** - What airline company is being mentioned the most during COVID-19 and what is the overall sentiment of news?
-	***Topic Tracking*** - For the airline company with the most mentions:
+	+ ***Exploratory*** - What airline company is being mentioned the most during COVID-19 and what is the overall sentiment of news?
+	+ ***Topic Tracking*** - For the airline company with the most mentions:
 		+ what topics are dominating the headlines for the company?
 		+ what is the weekly summary of the news for the company?
 		+ what are the implications/recommendations for relaunch from topic tracking?
-	***Sentiment Tracking*** - For the airline company with the most mentions:
+	+ ***Sentiment Tracking*** - For the airline company with the most mentions:
 		+ what is the sentiment of weekly news summaries for the company?
 		+ what are the implications/recommendations for relaunch from sentiment tracking?
 
