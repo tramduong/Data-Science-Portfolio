@@ -11,3 +11,6 @@ This report aims to detect outliers in hospital charges dataset by using K-mean 
 
 This report aims to detect outliers in hospital charges dataset by using PCA based anomaly dectection and KNN based anomaly detection. 
 
++ [Autoencoder and Isolation Forest](https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/Autoencoder_IsolationForest.ipynb)
+
+This report aims to detect outliers in hospital charges dataset by Autoencoder and Isolation Forest.
