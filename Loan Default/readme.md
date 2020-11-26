@@ -7,7 +7,7 @@
 
 This report aims to predict loan default dataset by using Logistic regression, Random Forest, and Gradient Boosting algorithm. 
 
-+ [Randome Forest and Sampling Techniques](https://github.com/tramduong/Data-Science-Portfolio/blob/master/Loan%20Default/Doc/SupervisedRF%26SamplingTechniques.ipynb)
++ [Random Forest and Sampling Techniques](https://github.com/tramduong/Data-Science-Portfolio/blob/master/Loan%20Default/Doc/SupervisedRF%26SamplingTechniques.ipynb)
 
 This report aims to predict loan default dataset by using Random Forest and Sampling Techniques (Oversampling and Undersampling). 
 
