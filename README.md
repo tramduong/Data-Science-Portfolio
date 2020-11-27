@@ -26,6 +26,7 @@ For a more visually pleasant experience for browsing the portfolio, check out [t
 		+ [Generalized Linear Model and AutoML](https://github.com/tramduong/Data-Science-Portfolio/blob/master/Loan%20Default/Doc/GLM%26AutoML.ipynb)
 		
 		_Tools: pandas, numpy, sklearn, h2o, seaborn, matplotlib. 
+		
 	- [Algorithm implementation and evaluation: Collaborative Filtering using ALS, KNN, TD](https://github.com/tramduong/Data-Science-Portfolio/tree/master/Collaborative%20Filtering): Focusing on alternating least square algorithms and KNN as post-processing, in which I try to evaluate how regularization will impact the prediction results.
 	
 	- [Eating Healthy in Fast Food Restaurant Chains in NYC](https://github.com/tramduong/Data-Science-Portfolio/tree/master/RestaurantApp): A shinny app provides users with nutrition information for fast food chain restaurants in NYC. Users can choose restaurants based on location and compare menu items.
@@ -47,7 +48,6 @@ For a more visually pleasant experience for browsing the portfolio, check out [t
 		+ [Natural Language Processing for Google News in a 30-day period](https://github.com/tramduong/Data-Science-Portfolio/tree/master/Google%20News): Topics modeling and classification for Google within a time period. 
 
 		_Tools: NLTK, gensim, spicy, json, sklearn, scikit_, sumy
-
 
 - ### Data Analysis and Visualisation
 	- __Python__
