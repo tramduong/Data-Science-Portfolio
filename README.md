@@ -60,7 +60,7 @@ For a more visually pleasant experience for browsing the portfolio, check out [t
 		- [Credit Card Exploration](https://github.com/tramduong/Data-Science-Portfolio/blob/master/Feature%20Engineering%20Projects/Doc/CreditCard_FE%26EDA.ipynb):  Create multiple feature engineerings to support data exploration and data analysis regarding to credit card fraud detection.
 		- [Stock Analysis Trading Strategies](https://github.com/tramduong/Data-Science-Portfolio/blob/master/Feature%20Engineering%20Projects/Doc/Stock_FE%26TradingStrategy.ipynb): Analysis of trending stocks including change in price over time, daily returns, and define trading strategies for different stock, using sharpe ratio,macd, oversold, overbought, and buy&hold.
 	
-		_Tools: dplyr, quantmod, TTR, PerformanceAnalytics, ggplot2, DataExplorer, xda, plotly, lubridate.
+		_Tools: dplyr, quantmod, TTR, PerformanceAnalytics, ggplot2, DataExplorer, xda, plotly, lubridate_
 
 
 I am also interested in exploring business cases and analytics. You can find some business analytics case studies[here](https://github.com/tramduong).
