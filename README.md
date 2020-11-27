@@ -43,7 +43,7 @@ For a more visually pleasant experience for browsing the portfolio, check out [t
 		+ [Airline Industry Since COVID-19](https://github.com/tramduong/Data-Science-Portfolio/tree/master/Airlines%20Covid-19): Topics and Sentiment Tracking of the Airline Industry Since COVID-19.
 
 	_Tools: NLTK, spicy, json, sklearn, scikit_
-
+	
 		+ [Natural Language Processing for Google News in a 30-day period](https://github.com/tramduong/Data-Science-Portfolio/tree/master/Google%20News): Topics modeling and classification for Google within a time period. 
 
 	_Tools: NLTK, gensim, spicy, json, sklearn, scikit_, sumy
