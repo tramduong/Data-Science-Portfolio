@@ -14,13 +14,13 @@ For a more visually pleasant experience for browsing the portfolio, check out [t
 		+ [Kmeans with Elbows and Silhouette Scores](https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/PCA_KNN.ipynb)
 		+ [PCA and KNN Algorithms](https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/PCA_KNN.ipynb)
 		+ [Autoencoder and Isolation Forest](https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/Autoencoder_IsolationForest.ipynb)	
-		_Tools: pandas, scipy, sklearn, pyod, seaborn, matplotlib. 
+	_Tools: pandas, scipy, sklearn, pyod, seaborn, matplotlib. 
 	- [Supervised Learning: Loan Default Prediction](https://github.com/tramduong/Data-Science-Portfolio/tree/master/Collaborative%20Filtering): Loan defaults exploration and prediction using different advanced supervised learning algorithms.
 		+ [Logistic regression, Random Forest, and Gradient Boosting Model](https://github.com/tramduong/Data-Science-Portfolio/blob/master/Loan%20Default/Doc/Loandefault_GradientBoosting_RF.ipynb)
 		+ [Random Forest and Sampling Techniques](https://github.com/tramduong/Data-Science-Portfolio/blob/master/Loan%20Default/Doc/SupervisedRF%26SamplingTechniques.ipynb)
 		+ [Gradient Boosting and Deep Learning](https://github.com/tramduong/Data-Science-Portfolio/blob/master/Loan%20Default/Doc/GBM%26DEEPLEARNING.ipynb)
 		+ [Generalized Linear Model and AutoML](https://github.com/tramduong/Data-Science-Portfolio/blob/master/Loan%20Default/Doc/GLM%26AutoML.ipynb)
-		_Tools: pandas, numpy, sklearn, h2o, seaborn, matplotlib. 
+	_Tools: pandas, numpy, sklearn, h2o, seaborn, matplotlib. 
 	- [Algorithm implementation and evaluation: Collaborative Filtering using ALS, KNN, TD](https://github.com/tramduong/Data-Science-Portfolio/tree/master/Collaborative%20Filtering): Focusing on alternating least square algorithms and KNN as post-processing, in which I try to evaluate how regularization will impact the prediction results.
 	- [Eating Healthy in Fast Food Restaurant Chains in NYC](https://github.com/tramduong/Data-Science-Portfolio/tree/master/RestaurantApp): A shinny app provides users with nutrition information for fast food chain restaurants in NYC. Users can choose restaurants based on location and compare menu items.
   		+ [Click me](https://ttd2111.shinyapps.io/NYCRestaurants/) 
@@ -28,17 +28,17 @@ For a more visually pleasant experience for browsing the portfolio, check out [t
 - ### Natural Language Processing
 	- __R__ 
 
-	- [Lyrics Text Mining](https://github.com/tramduong/Data-Science-Portfolio/blob/master/PopVsMetal/doc/SongLyrics.pdf) Text mining for lyric genre classification and sentiment analysis
+		+ [Lyrics Text Mining](https://github.com/tramduong/Data-Science-Portfolio/blob/master/PopVsMetal/doc/SongLyrics.pdf) Text mining for lyric genre classification and sentiment analysis
 
 	_Tools: dplyr, tm, tidytext, shiny, wordcloud, ggraph.
 	
 	- __Python__
 
-	- [Airline Industry Since COVID-19](https://github.com/tramduong/Data-Science-Portfolio/tree/master/Airlines%20Covid-19): Topics and Sentiment Tracking of the Airline Industry Since COVID-19
+		+ [Airline Industry Since COVID-19](https://github.com/tramduong/Data-Science-Portfolio/tree/master/Airlines%20Covid-19): Topics and Sentiment Tracking of the Airline Industry Since COVID-19
 
 	_Tools: NLTK, spicy, json, sklearn, scikit_
 
-	- [Natural Language Processing for Google News in a 30-day period](https://github.com/tramduong/Data-Science-Portfolio/tree/master/Google%20News): Topics modeling and classification for Google within a time period. 
+		+ [Natural Language Processing for Google News in a 30-day period](https://github.com/tramduong/Data-Science-Portfolio/tree/master/Google%20News): Topics modeling and classification for Google within a time period. 
 
 	_Tools: NLTK, gensim, spicy, json, sklearn, scikit_, sumy
 
