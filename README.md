@@ -65,4 +65,4 @@ For a more visually pleasant experience for browsing the portfolio, check out [t
 
 I am also interested in exploring business cases and analytics. You can find some business analytics case studies[here](https://github.com/tramduong).
 
-If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at ttd2111@columbia.edu.
+If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at [Tram Duong](ttd2111@columbia.edu.)
