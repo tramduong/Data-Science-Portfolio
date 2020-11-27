@@ -16,7 +16,7 @@ For a more visually pleasant experience for browsing the portfolio, check out [t
 		+ [PCA and KNN Algorithms](https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/PCA_KNN.ipynb)
 		+ [Autoencoder and Isolation Forest](https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/Autoencoder_IsolationForest.ipynb)
 		
-		_Tools: pandas, scipy, sklearn, pyod, seaborn, matplotlib. 
+		_Tools: pandas, scipy, sklearn, pyod, seaborn, matplotlib._
 	
 	- [Supervised Learning: Loan Default Prediction](https://github.com/tramduong/Data-Science-Portfolio/tree/master/Collaborative%20Filtering): Loan defaults exploration and prediction using different advanced supervised learning algorithms.
 	
@@ -25,7 +25,7 @@ For a more visually pleasant experience for browsing the portfolio, check out [t
 		+ [Gradient Boosting and Deep Learning](https://github.com/tramduong/Data-Science-Portfolio/blob/master/Loan%20Default/Doc/GBM%26DEEPLEARNING.ipynb)
 		+ [Generalized Linear Model and AutoML](https://github.com/tramduong/Data-Science-Portfolio/blob/master/Loan%20Default/Doc/GLM%26AutoML.ipynb)
 		
-		_Tools: pandas, numpy, sklearn, h2o, seaborn, matplotlib. 
+		_Tools: pandas, numpy, sklearn, h2o, seaborn, matplotlib._
 		
 	- [Algorithm implementation and evaluation: Collaborative Filtering using ALS, KNN, TD](https://github.com/tramduong/Data-Science-Portfolio/tree/master/Collaborative%20Filtering): Focusing on alternating least square algorithms and KNN as post-processing, in which I try to evaluate how regularization will impact the prediction results.
 	
@@ -37,7 +37,7 @@ For a more visually pleasant experience for browsing the portfolio, check out [t
 
 		+ [Lyrics Text Mining](https://github.com/tramduong/Data-Science-Portfolio/blob/master/PopVsMetal/doc/SongLyrics.pdf) Text mining for lyric genre classification and sentiment analysis.
 	
-		_Tools: dplyr, tm, tidytext, shiny, wordcloud, ggraph.
+		_Tools: dplyr, tm, tidytext, shiny, wordcloud, ggraph._
 	
 	- __Python__
 
@@ -47,7 +47,7 @@ For a more visually pleasant experience for browsing the portfolio, check out [t
 	
 		+ [Natural Language Processing for Google News in a 30-day period](https://github.com/tramduong/Data-Science-Portfolio/tree/master/Google%20News): Topics modeling and classification for Google within a time period. 
 
-		_Tools: NLTK, gensim, spicy, json, sklearn, scikit_, sumy
+		_Tools: NLTK, gensim, spicy, json, sklearn, scikit_, sumy_
 
 - ### Data Analysis and Visualisation
 	- __Python__
@@ -60,7 +60,7 @@ For a more visually pleasant experience for browsing the portfolio, check out [t
 		- [Credit Card Exploration](https://github.com/tramduong/Data-Science-Portfolio/blob/master/Feature%20Engineering%20Projects/Doc/CreditCard_FE%26EDA.ipynb):  Create multiple feature engineerings to support data exploration and data analysis regarding to credit card fraud detection.
 		- [Stock Analysis Trading Strategies](https://github.com/tramduong/Data-Science-Portfolio/blob/master/Feature%20Engineering%20Projects/Doc/Stock_FE%26TradingStrategy.ipynb): Analysis of trending stocks including change in price over time, daily returns, and define trading strategies for different stock, using sharpe ratio,macd, oversold, overbought, and buy&hold.
 	
-		_Tools: dplyr, quantmod, TTR, PerformanceAnalytics, ggplot2, DataExplorer, xda, plotly, lubridate_
+		_Tools: dplyr, quantmod, TTR, PerformanceAnalytics, ggplot2, DataExplorer, xda, plotly, lubridate._
 
 
 I am also interested in exploring business cases and analytics. You can find some business analytics case studies[here](https://github.com/tramduong).
