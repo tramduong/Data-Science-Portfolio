@@ -28,13 +28,12 @@ For a more visually pleasant experience for browsing the portfolio, check out [t
 - ### Natural Language Processing
 	- __R__ 
 
-		+ [Lyrics Text Mining](https://github.com/tramduong/Data-Science-Portfolio/blob/master/PopVsMetal/doc/SongLyrics.pdf) Text mining for lyric genre classification and sentiment analysis
-
-	_Tools: dplyr, tm, tidytext, shiny, wordcloud, ggraph.
+		+ [Lyrics Text Mining](https://github.com/tramduong/Data-Science-Portfolio/blob/master/PopVsMetal/doc/SongLyrics.pdf) Text mining for lyric genre classification and sentiment analysis.
+		_Tools: dplyr, tm, tidytext, shiny, wordcloud, ggraph.
 	
 	- __Python__
 
-		+ [Airline Industry Since COVID-19](https://github.com/tramduong/Data-Science-Portfolio/tree/master/Airlines%20Covid-19): Topics and Sentiment Tracking of the Airline Industry Since COVID-19
+		+ [Airline Industry Since COVID-19](https://github.com/tramduong/Data-Science-Portfolio/tree/master/Airlines%20Covid-19): Topics and Sentiment Tracking of the Airline Industry Since COVID-19.
 
 	_Tools: NLTK, spicy, json, sklearn, scikit_
 
