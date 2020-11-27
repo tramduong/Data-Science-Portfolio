@@ -56,17 +56,6 @@ For a more visually pleasant experience for browsing the portfolio, check out [t
 	
 	_Tools: dplyr, quantmod, TTR, PerformanceAnalytics, ggplot2, DataExplorer, xda, plotly, lubridate.
 
-- ### Micro Projects: 
-
-	- __Python__
-		- [ML with Logistic Regression](https://github.com/sajal2692/data-science-portfolio/blob/master/ML%20Micro%20Projects/Machine%20Learning%20with%20Logistic%20Regression.ipynb): Using Logistic Regression to predict whether an internet user clicked an ad or not.
-		- [ML with K Nearest Neighbours](https://github.com/sajal2692/data-science-portfolio/blob/master/ML%20Micro%20Projects/ML%20with%20K%20Nearest%20Neighbors.ipynb): Using KNN to classify instances from a fake dataset into two target classes, while choosing the best value for K using the elbow method.
-		- [ML with Decision Trees and Random Forests](https://github.com/sajal2692/data-science-portfolio/blob/master/ML%20Micro%20Projects/Machine%20Learning%20with%20Decision%20Trees%20and%20Random%20Forests.ipynb): Using Decision Trees and Random Forests to predict whether a lender will pay their loan back. Uses publically available data from LendingClub.com
-		- [Movie Recommendations using Recommender Systems](https://github.com/sajal2692/data-science-portfolio/blob/master/ML%20Micro%20Projects/Recommender%20Systems%20with%20Python.ipynb): A micro project to build a recommendation system that makes movie recommendations based on user review similarities. 
-
-	- __R__
-		- [ML Logistic Regression](http://rpubs.com/sajal_sharma/micro_logistic): Predicting salary class of a person using logistic regression.
-		- [ML Decision Trees and Random Forests](http://rpubs.com/sajal_sharma/micro_dt_rf): Using Decision Trees and Random Forests to classify schools as Private or Public.
 
 I am also interested in exploring business cases and analytics. You can find some business analytics case studies[here](https://github.com/tramduong).
 
