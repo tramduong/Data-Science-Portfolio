@@ -33,12 +33,6 @@ For a more visually pleasant experience for browsing the portfolio, check out [T
   		+ [Click me](https://ttd2111.shinyapps.io/NYCRestaurants/) 
 
 - ### Natural Language Processing
-	- __R__ 
-
-		+ [Lyrics Text Mining](https://github.com/tramduong/Data-Science-Portfolio/blob/master/PopVsMetal/doc/SongLyrics.pdf) Text mining for lyric genre classification and sentiment analysis.
-	
-		_Tools: dplyr, tm, tidytext, shiny, wordcloud, ggraph._
-	
 	- __Python__
 
 		+ [Airline Industry Since COVID-19](https://github.com/tramduong/Data-Science-Portfolio/tree/master/Airlines%20Covid-19): Topics and Sentiment Tracking of the Airline Industry Since COVID-19.
@@ -48,6 +42,13 @@ For a more visually pleasant experience for browsing the portfolio, check out [T
 		+ [Natural Language Processing for Google News in a 30-day period](https://github.com/tramduong/Data-Science-Portfolio/tree/master/Google%20News): Topics modeling and classification for Google within a time period. 
 
 		_Tools: NLTK, gensim, spicy, json, sklearn, scikit_, sumy_
+		
+	- __R__ 
+
+		+ [Lyrics Text Mining](https://github.com/tramduong/Data-Science-Portfolio/blob/master/PopVsMetal/doc/SongLyrics.pdf) Text mining for lyric genre classification and sentiment analysis.
+	
+		_Tools: dplyr, tm, tidytext, shiny, wordcloud, ggraph._
+	
 
 - ### Data Analysis and Visualisation
 	- __Python__
