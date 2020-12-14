@@ -12,7 +12,7 @@ For a more visually pleasant experience for browsing the portfolio, check out [T
 	- [Face Image Emotion Recognition](https://github.com/tramduong/Data-Science-Portfolio/tree/master/Image%20Recognition): Create an advanced classification engine for faction emotion recognition, using PCA, GBM, CNN, KNN, RF with cross-validation, SVM. Resulting with 44% accuracy.
 	- [Unsupervised Learning: Fraud Detection with Hospital data](https://github.com/tramduong/Data-Science-Portfolio/tree/master/Hospital%20Charges%20Fraud): Analyzing a hospital charge data to determine outliers, idenfy anomalous activities and provide insights of these behaviors using different advanced algorithms.
 	
-		+ [Kmeans with Elbows and Silhouette Scores](https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/PCA_KNN.ipynb)
+		+ [Kmeans with Elbows and Silhouette Scores](https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/K-means_Clustering.ipynb)
 		+ [PCA and KNN Algorithms](https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/PCA_KNN.ipynb)
 		+ [Autoencoder and Isolation Forest](https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/Autoencoder_IsolationForest.ipynb)
 		
