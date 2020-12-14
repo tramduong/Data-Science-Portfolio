@@ -31,6 +31,8 @@ For a more visually pleasant experience for browsing the portfolio, check out [T
 	
 	- [Eating Healthy in Fast Food Restaurant Chains in NYC](https://github.com/tramduong/Data-Science-Portfolio/tree/master/RestaurantApp): A shinny app provides users with nutrition information for fast food chain restaurants in NYC. Users can choose restaurants based on location and compare menu items.
   		+ [Click me](https://ttd2111.shinyapps.io/NYCRestaurants/) 
+	
+	- [Interpreting Machine Learning Model using Shape Values](https://github.com/tramduong/Data-Science-Portfolio/blob/master/Loan%20Default/Doc/ML_ShapValues.ipynb): Using Shap Values to interpret feature impact to the model output. 
 
 - ### Natural Language Processing
 	- __Python__
