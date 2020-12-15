@@ -10,7 +10,7 @@
 	+ ***Topic Tracking*** 
 		+ Topic Modeling
 		+ Topic Classification
-	+ ***Sentiment Tracking*** - For the airline company with the most mentions:
+	+ ***Sentiment Tracking***
 		+ Locality Sensitive Hashing (LSH) & Text Deduplication
 + **Goal**: 
 	+ Tracking top mentioned topics and trendings for Google during Covid-19 time
