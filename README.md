@@ -54,7 +54,7 @@ For a more visually pleasant experience for browsing the portfolio, check out [T
 
 - ### Data Analysis and Visualisation
 	- __Python__
-		- [Hospital Charge Dataset - Exploratory Analysis](https://github.com/sajal2692/data-science-portfolio/blob/master/Titanic%20Dataset%20-%20Exploratory%20Analysis.ipynb): Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.		
+		- [Hospital Charge Dataset - Exploratory Analysis](https://github.com/tramduong/Data-Science-Portfolio/blob/master/Feature%20Engineering%20Projects/Doc/HospitalCharge_FE%26EDA.ipynb): Exploratory Analysis of the hospital patient discharges using Pandas and Seaborn visualisations.		
 		- [Loan Default - Exploratory Analysis](https://github.com/tramduong/Data-Science-Portfolio/blob/master/Feature%20Engineering%20Projects/Doc/Loandefault_FE%26EDA.ipynb): Create multiple feature engineerings to support data exploration and data analysis regarding to loan fraud. In this case, I also applied gradient boosting and random forest to detect anomalies.
 		
 		_Tools: Pandas, Folium, Seaborn and Matplotlib_
