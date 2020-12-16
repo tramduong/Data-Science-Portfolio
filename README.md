@@ -18,7 +18,7 @@ For a more visually pleasant experience for browsing the portfolio, check out [T
 		
 		_Tools: pandas, scipy, sklearn, pyod, seaborn, matplotlib._
 	
-	- [Supervised Learning: Loan Default Prediction](https://github.com/tramduong/Data-Science-Portfolio/tree/master/Collaborative%20Filtering): Loan defaults exploration and prediction using different advanced supervised learning algorithms.
+	- [Supervised Learning: Loan Default Prediction](https://github.com/tramduong/Data-Science-Portfolio/tree/master/Loan%20Default): Loan defaults exploration and prediction using different advanced supervised learning algorithms.
 	
 		+ [Logistic regression, Random Forest, and Gradient Boosting Model](https://github.com/tramduong/Data-Science-Portfolio/blob/master/Loan%20Default/Doc/Loandefault_GradientBoosting_RF.ipynb)
 		+ [Random Forest and Sampling Techniques](https://github.com/tramduong/Data-Science-Portfolio/blob/master/Loan%20Default/Doc/SupervisedRF%26SamplingTechniques.ipynb)
