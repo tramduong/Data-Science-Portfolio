@@ -69,6 +69,7 @@ For a more visually pleasant experience for browsing the portfolio, check out [T
 	- __R__
 		- [US Hotel Review Dataset - Non-personalized recommendation model](https://github.com/tramduong/Data-Science-Portfolio/tree/master/Hotel_Review_Data): Text analysis, sentiment analysis with Bing and NRC lexicon, and recommender system using hotel review data. 
 		_Tools: dplyr, quantmod, TTR, PerformanceAnalytics, ggplot2, DataExplorer, xda, plotly, lubridate._
+
 I am also interested in exploring business cases and analytics. You can find some business analytics case studies [here](https://github.com/tramduong/Business-Analytics-Cases).
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at ttd2111@columbia.edu.
