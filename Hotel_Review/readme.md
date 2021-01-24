@@ -4,7 +4,7 @@
 ### Conducted by Tram Duong
 
 
-### [Project Description](doc/)
+### [Project Description](Doc/)
 
 + **Project summary**: 
 
